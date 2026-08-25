@@ -1,6 +1,7 @@
 # Finance Operations Automation Portfolio
 
 A portfolio of practical finance automation solutions built to reduce repetitive work, improve accuracy and create review-ready outputs.
+![Finance Operations Automation Suite interface](finance-automation-dashboard.png)
 
 ## About Me
 
